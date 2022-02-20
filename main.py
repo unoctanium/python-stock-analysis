@@ -22,4 +22,4 @@ else:
 	else:
 		print("x1 = " + str((-b + sqrt(d)) / (2*a)))
 		print("x2 = " + str((-b - sqrt(d)) / (2*a)))
-	
+
