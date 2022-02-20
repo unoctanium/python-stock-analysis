@@ -4,7 +4,7 @@ print("Solve ax^2 + bx + c = 0 (find zeroes of equation)")
 a = float(input("a: "))
 b = float(input("b: "))
 c = float(input("c: "))
-
+print("jo")
 if a==0:
 	if b==0:
 		if c==0:
